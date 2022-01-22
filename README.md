@@ -26,6 +26,9 @@
 
 EndPoint de la API [Mi Indicador](https://mindicador.cl/) construido en [Nest](https://github.com/nestjs/nest) con [TypeScript](https://www.typescriptlang.org/).
 
+## Deployment
+[Inidicadores](https://indicatorscl-api.herokuapp.com/api/indicators)
+
 
 ## Installation
 
